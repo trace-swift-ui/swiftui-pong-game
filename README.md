@@ -2,7 +2,7 @@
 
 This iOS app is a simple Pong game built using SwiftUI and Combine. The app features a black background with two white paddles on either side and a white ball that bounces between them. The left paddle moves automatically to follow the ball, while the right paddle can be controlled by the user through touch gestures.
 
-![App Preview](https://login.trace.zip/storage/v1/object/public/trace/f8ca39ab-2853-4efb-913f-0988562e748a)
+![App Preview](https://login.trace.zip/storage/v1/object/public/trace/f8ca39ab-2853-4efb-913f-0988562e748a.png)
 
 This app was built using [Trace AI](https://trace.zip), and you can demo this particular project at [https://trace.zip/c/f8ca39ab-2853-4efb-913f-0988562e748a](https://trace.zip/c/f8ca39ab-2853-4efb-913f-0988562e748a).
 
